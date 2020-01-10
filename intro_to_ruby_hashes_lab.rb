@@ -27,7 +27,7 @@ def monopoly_with_third_tier
     :railroads => {
       :pieces => 4, 
       :rent_in_dollars => {
-        :reading => 250, 
+        :names => "", 
         :pennsylvania => 250, 
         :monaco => 250, 
         :miami => 250
