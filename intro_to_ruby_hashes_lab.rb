@@ -31,7 +31,9 @@ def monopoly_with_third_tier
         :price => {}, 
         :rent => {}, 
         :mortgage => {}
-        }}, 
+        }, 
+      :names => {}
+    }, 
     
   }
 end
